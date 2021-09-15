@@ -1,0 +1,26 @@
+{
+  "id": "59af286d-833c-4d5c-8e97-4623d73cb892",
+  "name": "SD Seminar",
+  "publisher": "D.E. Veloper",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "18.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://SDSeminar.com/help/",
+  "showMyCode": true,
+  "runtime": "7.0"
+}
