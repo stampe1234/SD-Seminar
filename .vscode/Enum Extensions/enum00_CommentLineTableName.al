@@ -14,4 +14,9 @@ enumextension 50100 "CSD Seminar" extends "Comment Line Table Name"
     {
         Caption = 'Posted Seminar Registration';
     }
+
+    value(50103; "CSD Seminar Reg. Header")
+    {
+        Caption = 'Seminar Reg. Header';
+    }
 }
