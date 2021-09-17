@@ -10,7 +10,8 @@
             "serverInstance": "BC180",
             "authentication": "Windows",
          
-            "startupObjectType": "Page",
+            "startupObjectType": "Report",
+            "startupObjectId": 50104,
             "breakOnError": true,
             "launchBrowser": true,
             "enableLongRunningSqlStatements": true,
